@@ -1,3 +1,5 @@
+Changed by Egor Zdioruc
+
 <div align="center">
 	<p><img src="art/header.jpg" alt="PowerGrid Logo"></p>
     <p align="center">
